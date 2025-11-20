@@ -18,11 +18,11 @@ This page allows users to **search GitHub usernames** and displays matching prof
 
 
 Screenshots
-<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 04 24 PM" src="https://github.com/user-attachments/assets/0a60c873-bf6c-4430-b0b7-43b4b1e02594" />
-<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 04 36 PM" src="https://github.com/user-attachments/assets/5d424c5e-d2f0-4221-b1f6-10925f47a469" />
+![WhatsApp Image 2025-11-20 at 09 53 42 (1)](https://github.com/user-attachments/assets/fc4ffc4b-5061-454e-adaa-1aeebcabe21e)
+![WhatsApp Image 2025-11-20 at 09 53 42 (2)](https://github.com/user-attachments/assets/7ee8ef81-e282-4728-8a00-45feda271d9b)
+![WhatsApp Image 2025-11-20 at 09 53 43](https://github.com/user-attachments/assets/8de9a257-4164-43f8-a03c-587548cd12c7)
+![WhatsApp Image 2025-11-20 at 09 53 43 (1)](https://github.com/user-attachments/assets/2dd11b94-3ef6-44bd-8620-47bb260749c5)
 
-<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 04 52 PM" src="https://github.com/user-attachments/assets/d4f995f8-6d8b-44f8-bf77-37bc5de3f2bf" />
-<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 05 04 PM" src="https://github.com/user-attachments/assets/a35c7e5a-9f8c-43d8-bd13-9db5ce6348da" />
 
 
 GitHub Search Input
