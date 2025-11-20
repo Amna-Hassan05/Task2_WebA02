@@ -1,18 +1,54 @@
-# React + Vite
+Task 2 – GitHub User Search Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Overview
 
-Currently, two official plugins are available:
+This page allows users to **search GitHub usernames** and displays matching profiles dynamically using the **GitHub REST API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Features
 
-## React Compiler
+* Input field for username search
+* Fetches data from GitHub API: `https://api.github.com/search/users?q={query}`
+* Displays:
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+  * Avatar
+  * Username
+  * Profile link
+* Loading & error handling
+* Responsive layout using Tailwind CSS
 
-Note: This will impact Vite dev & build performances.
 
-## Expanding the ESLint configuration
+Screenshots
+<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 04 24 PM" src="https://github.com/user-attachments/assets/0a60c873-bf6c-4430-b0b7-43b4b1e02594" />
+<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 04 36 PM" src="https://github.com/user-attachments/assets/5d424c5e-d2f0-4221-b1f6-10925f47a469" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 04 52 PM" src="https://github.com/user-attachments/assets/d4f995f8-6d8b-44f8-bf77-37bc5de3f2bf" />
+<img width="1470" height="956" alt="Screenshot 2025-11-20 at 10 05 04 PM" src="https://github.com/user-attachments/assets/a35c7e5a-9f8c-43d8-bd13-9db5ce6348da" />
+
+
+GitHub Search Input
+
+![GitHub Search](./screenshots/github-search.png)
+Caption: User enters a GitHub username query.
+
+GitHub User Results
+
+![GitHub Users](./screenshots/github-results.png)
+Caption: Matching GitHub profiles with avatar, username, and profile link.
+
+
+Setup Instructions
+
+1. Ensure Task 1 repo is cloned and running.
+2. Navigate to `/github-users` route in React app.
+3. Enter any GitHub username to see results fetched live.
+
+
+Team Contributions
+
+| Name          | Contribution                               |
+| ------------- | ------------------------------------------ |
+| Oswa Saleem   | GitHub API integration, error handling     |
+| Amna Hassan   | UI design, responsive layout               |
+| Arooba Faisal | Search functionality, loading/error states |
+
+
